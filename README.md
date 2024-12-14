@@ -136,6 +136,8 @@ ExpressVPN的所有服务器均使用独特的TrustedServer技术，这种技术
 
 ExpressVPN在设备兼容性方面表现优异，支持多种操作系统和设备类型，能够满足用户的多样化需求。以下是ExpressVPN兼容的设备列表：
 
+![ExpressVPN中国评测：ExpressVPN可以兼容所有主流的设备和平台](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/ExpressVPN-3.jpg)
+
 * 桌面操作系统：Windows、macOS、Linux、Chromebook。
 * 移动操作系统：iOS（iPhone、iPad、iPod）、Android、Kindle Fire、Nook HD。
 * 浏览器扩展：Google Chrome、Mozilla Firefox、Microsoft Edge、Vivaldi、Brave、Chromium。
@@ -148,6 +150,8 @@ ExpressVPN在设备兼容性方面表现优异，支持多种操作系统和设�
 ## ExpressVPN价格
 
 与市面上其他VPN软件相比，ExpressVPN的定价略高一些，但这一价格对应的是其顶级性能和稳定性。对于需要长期稳定翻墙和保护隐私的用户来说，这样的投入是值得的。ExpressVPN提供多种订阅计划，以满足短期或长期用户的不同需求，并支持灵活的付款方式，方便用户根据自身情况选择最适合的方案。
+
+![ExpressVPN中国评测：ExpressVPN价格](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/ExpressVPN-2.jpg)
 
 * 1个月套餐：每月$12.95，适合短期使用者。
 * 1年套餐：总计$99.95，平均每月$6.25，较单月订阅节省约52%。
