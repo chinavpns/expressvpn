@@ -177,7 +177,7 @@ ExpressVPN在设备兼容性方面表现优异，支持多种操作系统和设�
 
 ExpressVPN的下载和安装过程十分简便，即使是第一次接触VPN的新手用户也能快速完成。无论你使用的是Windows、MacOS、Linux等桌面操作系统，还是Android、iOS等移动设备，ExpressVPN都提供了专属的客户端程序，确保用户能够轻松配置并快速开始使用，享受高效稳定的网络体验。
 
-**PC端用户（Windows、MacOS、Linux）**
+**Windows/MacOS/Linux APP下载**
 
 如果你是PC端用户，可以直接通过以下链接下载适合你设备的客户端，安装步骤清晰易懂，无需复杂设置即可完成配置并开始使用：
 
@@ -187,7 +187,7 @@ ExpressVPN的下载和安装过程十分简便，即使是第一次接触VPN的�
 
 注意：如果你想了解更多适合在中国使用且适合PC设备的VPN软件，请参考《<a href="https://github.com/chinavpns/pcvpn.github.io">电脑VPN</a>》。
 
-**Android用户**
+**Android APK/APP下载**
 
 Android用户可以通过两种简单方式下载和安装ExpressVPN应用。第一种方式是直接下载APK文件。你可以点击以下链接获取最新版本的ExpressVPN APK文件。下载完成后，按照设备提示完成安装，即可快速开始使用。这种方法非常适合无法访问Google Play商店的用户。第二种方式是通过Google Play商店下载。只需在Google Play商店中搜索“ExpressVPN”，找到官方应用后点击下载，并按照提示完成安装。整个过程十分便捷，非常适合大多数Android用户。
 
@@ -195,7 +195,7 @@ Android用户可以通过两种简单方式下载和安装ExpressVPN应用。第
 
 注意：如果你想了解更多在中国比较好用且适合安卓设备的VPN软件，请查看《<a href="https://github.com/chinavpns/androidvpn.github.io">手机VPN</a>》。
 
-**iOS用户（特别是中国大陆用户）**
+**iOS APP中国大陆下载**
 
 如果你是iOS用户，并且身处中国大陆，由于政策原因，中国区App Store下架了所有与翻墙相关的软件，因此你可能无法直接从App Store下载ExpressVPN iOS应用。如果你想要下载ExpressVPN iOS应用，最简单的方法是通过“<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>”购买一个现成的美区Apple ID账号。这种方法操作简单、安全可靠，价格便宜（仅需20元人民币），适合大多数普通用户。当你完成购买后，只需退出当前的Apple ID，登录新购买的美区Apple ID，即可在App Store中搜索并下载ExpressVPN的iOS应用。
 
