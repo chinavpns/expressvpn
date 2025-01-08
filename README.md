@@ -1,6 +1,6 @@
 # ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN国内能用吗？
 
-<p align="center">最近更新于：2025年1月2日</p>
+<p align="center">最近更新于：2025年1月8日</p>
 
 ![ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN国内能用吗？](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/Expressvpn.png)
 
@@ -185,15 +185,11 @@ ExpressVPN的下载和安装过程非常简单，即使是第一次接触VPN的�
 
 注意：如果你想了解更多适合在中国使用且适合PC设备的VPN软件，请参考《<a href="https://github.com/chinavpns/pcvpn.github.io">电脑VPN</a>》。
 
-如果你是Android设备，那么你也可以直接点击下面链接去下载ExpressVPN APK，也可以直接在Google Play商店中去搜索“ExpressVPN”并下载其APK。
-
 如果你是Android用户，可以点击以下链接直接下载ExpressVPN APK文件，或者在Google Play商店中搜索“ExpressVPN”进行下载：
 
 * Expressvpn.com/vpn-download/vpn-android
 
 注意：如果你想了解更多在中国比较好用且适合安卓设备的VPN软件，请查看《<a href="https://github.com/chinavpns/androidvpn.github.io">手机VPN</a>》。
-
-如果你是iOS用户，并且身处中国大陆的话，因为政策原因，中国区App Store下架了所有跟翻墙相关的软件，那么你可能无法直接从App Store中下载ExpressVPN iOS APP。如果你想要下载ExpressVPN iOS APP，最简单的办法就是通过“银河录像局”购买现成的美区Apple ID帐号。这种方法适合大多数普通用户，操作简单、安全可靠，价格便宜（仅需20元人民币），可长期使用。购买完美区Apple ID帐号后，只需退出当前的Apple ID，使用新购买的美区Apple ID登录App Store，然后即可搜索并下载ExpressVPN的iOS应用。
 
 如果你是iOS用户，并且身处中国大陆，由于政策原因，中国区App Store下架了所有与翻墙相关的软件，因此你可能无法直接从App Store下载ExpressVPN iOS应用。如果你想要下载ExpressVPN iOS应用，最简单的方法是通过“<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>”购买一个现成的美区Apple ID账号。这种方法操作简单、安全可靠，价格便宜（仅需20元人民币），适合大多数普通用户。当你完成购买后，只需退出当前的Apple ID，登录新购买的美区Apple ID，即可在App Store中搜索并下载ExpressVPN的iOS应用。
 
