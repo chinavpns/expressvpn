@@ -173,7 +173,7 @@ ExpressVPN在设备兼容性方面表现优异，支持多种操作系统和设�
 
 <p align="center"><a href="https://wallvpn.com/go/expressvpn/">立即获取ExpressVPN</a></p>
 
-## ExpressVPN下载
+## ExpressVPN APP下载教程
 
 ExpressVPN的下载和安装过程十分简便，即使是第一次接触VPN的新手用户也能快速完成。无论你使用的是Windows、MacOS、Linux等桌面操作系统，还是Android、iOS等移动设备，ExpressVPN都提供了专属的客户端程序，确保用户能够轻松配置并快速开始使用，享受高效稳定的网络体验。
 
