@@ -321,6 +321,8 @@ ExpressVPN在国外以其卓越的服务品质深受用户好评，不仅提供�
 
 * <a href=https://github.com/chinavpns/freevpn.github.io>免费VPN推荐</a>：2025年最好用的免费VPN推荐！本文将会给大家推荐几款在中国国内可用的免费VPN加速器（包含大陆永久免费VPN）和提供30天免费试用的顶级付费VPN软件！
 
+* <a href="https://github.com/chinavpns/speedin-vpn">快帆VPN评测</a>：快帆好用吗？快帆VPN安全吗？本文包含最新的快帆VPN优惠券和快帆VPN兑换码信息。此外，我们还将详细解答快帆和穿梭哪个好、快帆不能用了吗、快帆VPN连不上怎么办等常见问题。
+
 * <a href=https://github.com/chinavpns/telegram>Telegram注册</a>：2025年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
 
 * <a href=https://github.com/chinavpns/chatgpt-plus>GPT Plus充值</a>：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号，以及通过专业代充值平台完成ChatGPT Plus充值。
