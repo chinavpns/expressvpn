@@ -323,6 +323,10 @@ ExpressVPN在国外以其卓越的服务品质深受用户好评，不仅提供�
 
 * <a href="https://github.com/chinavpns/freevpn.github.io">免费VPN推荐</a>：2025年最好用的免费VPN推荐！本文将会给大家推荐几款在中国国内可用的免费VPN加速器（包含大陆永久免费VPN）和提供30天免费试用的顶级付费VPN软件！
 
+* <a href="https://github.com/chinavpns/strongvpn">StrongVPN中国评测</a>：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？（注意：StrongVPN支持支付宝付款）
+
+* <a href="https://github.com/chinavpns/purevpn">PureVPN中国评测</a>：最新PureVPN评测：PureVPN中国能用吗？PureVPN怎么样？PureVPN中国连不上怎么办？PureVPN安全吗？PureVPN可以翻墙回国吗？
+
 * <a href="https://github.com/chinavpns/speedin-vpn">快帆VPN评测</a>：快帆好用吗？快帆VPN安全吗？本文包含最新的快帆VPN优惠券和快帆VPN兑换码信息。此外，我们还将详细解答快帆和穿梭哪个好、快帆不能用了吗、快帆VPN连不上怎么办等常见问题。
 
 * <a href="https://github.com/chinavpns/telegram">Telegram注册</a>：2025年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
