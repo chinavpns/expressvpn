@@ -161,7 +161,7 @@ ExpressVPN在国内无法使用的情况比较少见，但如果你恰巧遇到�
 
 如果回国后遇到ExpressVPN连接速度较慢或频繁掉线的情况，可以尝试更换服务器节点，或者切换到OpenVPN协议。ExpressVPN的客户端会定期更新，以适应中国不断变化的网络环境，因此保持客户端更新非常重要。
 
-总的来说，ExpressVPN在回国后的使用体验依然稳定可靠，可以帮助身处中国的用户顺利访问国外网站和服务。最后需要提醒的是，如果你身处海外，想要<a href="https://github.com/chinavpns/vpnintochina">翻墙回国</a>访问国内的爱奇艺、腾讯视频、网易云音乐等服务，请参考《<a href="https://github.com/chinavpns/vpnintochina">回国VPN</a>》一文。
+总的来说，ExpressVPN在回国后的使用体验依然稳定可靠，可以帮助身处中国的用户顺利访问国外网站和服务。注意，如果你身处海外，想要<a href="https://github.com/chinavpns/vpnintochina">翻墙回国</a>访问国内的爱奇艺、腾讯视频、网易云音乐等服务，请参考《<a href="https://github.com/chinavpns/vpnintochina">回国VPN</a>》一文。
 
 ### ExpressVPN被封了吗？
 
