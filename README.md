@@ -121,9 +121,13 @@ ExpressVPN主要提供三种付费套餐，分别是1个月套餐、12个月套�
 
 如果你是iOS用户，并且身处中国大陆，会发现由于政策原因，中国区App Store早已下架所有与<a href="https://chinavpns.github.io/">翻墙</a>相关的软件，因此无法直接在国区App Store中搜索和下载ExpressVPN iOS应用。
 
-目前最简单、便捷的方法，就是通过“**<a href="https://nf.video/BTgSc">银河录像局</a>**”等正规平台购买一个现成的美区Apple ID账号。整个过程操作简单，安全可靠，价格也很实惠（大约20元人民币左右），非常适合普通用户。
+目前最简单、便捷的方法，就是通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”等正规平台购买一个现成的美区Apple ID账号。整个过程操作简单，安全可靠，价格也很实惠（大约20元人民币左右），非常适合普通用户。
+
+![如何下载ExpressVPN iOS APP：通过银河录像局去购买美区Apple ID帐号](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/ExpressVPN-4.png)
 
 当购买完成后，你只需要在iPhone或iPad上退出当前的Apple ID，然后使用新购买的美区Apple ID登录App Store。接着在AppStore中搜索“ExpressVPN”，即可直接下载并安装官方iOS客户端。安装完成后，你还可以切换回自己的Apple ID使用，不会影响手机的正常功能。
+
+<p align="center"><a href="https://wallvpn.com/go/nf-video/">立即访问银河录像局官网</a></p>
 
 温馨提示：如果你不清楚如何通过“银河录像局”购买美区Apple ID账号，可以参考《<a href="https://github.com/iosvpn/iosvpn.github.io">iPhone翻墙</a>》一文，其中有详细的操作步骤。
 
