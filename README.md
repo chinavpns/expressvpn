@@ -70,7 +70,7 @@ ExpressVPN主要提供三种付费套餐，分别是1个月套餐、12个月套�
 * 12个月套餐：6.67美金/月（12个月共99.95美金）（免费赠送3个月）
 * 2年套餐：4.99美金/月（2年共139.72美金）（免费赠送4个月）
 
-注意：ExpressVPN提供的2年套餐的性价比是最高的，不仅价格低至4.99美金/月，而且还可以免费赠送4个月。此外，ExpressVPN为所有用户提供30天无理由退款保证。无论你选择哪种套餐，如果在使用过程中觉得不合适，都可以在30天内随时申请退款，ExpressVPN承诺全额退还费用，所以大家可以放心地购买！与此同时，ExpressVPN还提供7x24全天候在线客服支持，确保用户在购买和使用过程中遇到问题时能够得到及时解决。
+ExpressVPN提供的2年套餐的性价比是最高的，不仅价格低至4.99美金/月，而且还可以免费赠送4个月。此外，ExpressVPN为所有用户提供30天无理由退款保证。无论你选择哪种套餐，如果在使用过程中觉得不合适，都可以在30天内随时申请退款，ExpressVPN承诺全额退还费用，所以大家可以放心地购买！与此同时，ExpressVPN还提供7x24全天候在线客服支持，确保用户在购买和使用过程中遇到问题时能够得到及时解决。
 
 <p align="center"><a href="https://wallvpn.com/go/expressvpn/">立即获取ExpressVPN</a></p>
 
@@ -129,11 +129,9 @@ ExpressVPN主要提供三种付费套餐，分别是1个月套餐、12个月套�
 
 ![如何下载ExpressVPN iOS APP：通过银河录像局去购买美区Apple ID帐号](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/ExpressVPN-4.png)
 
-当购买完成后，你只需要在iPhone或iPad上退出当前的Apple ID，然后使用新购买的美区Apple ID登录App Store。接着在AppStore中搜索“ExpressVPN”，即可直接下载并安装官方iOS客户端。安装完成后，你还可以切换回自己的Apple ID使用，不会影响手机的正常功能。
+当购买完成后，你只需要在iPhone或iPad上退出当前的Apple ID，然后使用新购买的美区Apple ID登录App Store。接着在AppStore中搜索“ExpressVPN”，即可直接下载并安装官方iOS客户端。安装完成后，你还可以切换回自己的Apple ID使用，不会影响手机的正常功能。温馨提示：如果你不清楚如何通过“银河录像局”购买美区Apple ID账号，可以参考《<a href="https://github.com/iosvpn/iosvpn.github.io">iPhone翻墙</a>》一文，其中有详细的操作步骤。
 
 <p align="center"><a href="https://wallvpn.com/go/nf-video/">立即访问银河录像局官网</a></p>
-
-温馨提示：如果你不清楚如何通过“银河录像局”购买美区Apple ID账号，可以参考《<a href="https://github.com/iosvpn/iosvpn.github.io">iPhone翻墙</a>》一文，其中有详细的操作步骤。
 
 ## ExpressVPN中国常见问题
 
