@@ -72,16 +72,20 @@ ExpressVPN主要提供三种付费套餐，分别是1个月套餐、12个月套�
 
 ExpressVPN提供的2年套餐的性价比是最高的，不仅价格低至4.99美金/月，而且还可以免费赠送4个月。此外，ExpressVPN为所有用户提供30天无理由退款保证。无论你选择哪种套餐，如果在使用过程中觉得不合适，都可以在30天内随时申请退款，ExpressVPN承诺全额退还费用，所以大家可以放心地购买！与此同时，ExpressVPN还提供7x24全天候在线客服支持，确保用户在购买和使用过程中遇到问题时能够得到及时解决。
 
-**ExpressVPN怎么取消自动续费？**
+## ExpressVPN怎么取消自动续费？
+
+很多用户在购买ExpressVPN时，会默认开启自动续费功能。如果后续你不打算继续订阅，就需要提前关闭自动续费，以避免到期后被系统自动扣费。取消ExpressVPN自动续费的操作方法非常简单，只需几步即可完成：
 
 * 第一步：通过浏览器打开ExpressVPN官网并登录账号。
 * 第二步：在ExpressVPN后台的左侧菜单中点击Subscription。
 * 第三步：在Subscription details页面点击Cancel Subscription。
 * 第四步：按照页面提示完成确认，直到显示“Your subscription has been canceled”。
 
-注意：ExpressVPN取消自动续费后，你的账户仍可使用到当前订阅周期结束，到期后不会再自动扣费。
+注意：ExpressVPN取消自动续费后，你的账户仍可使用到当前订阅周期结束，到期后不会再自动扣费。这样一来，你可以根据自身需求自由决定是否续订，而不用担心被强制扣款。
 
-**ExpressVPN如何申请退款？**
+## ExpressVPN如何申请退款？
+
+ExpressVPN为用户提供30天无理由退款保证。如果你在使用过程中觉得不满意，那么完全可以在规定时间内申请退款。ExpressVPN申请退款的整个流程非常简单，只需按照以下步骤操作即可：
 
 * 第一步：通过浏览器打开ExpressVPN官网并登录账号。
 * 第二步：进入ExpressVPN的Support页面。
@@ -89,7 +93,7 @@ ExpressVPN提供的2年套餐的性价比是最高的，不仅价格低至4.99�
 * 第四步：向ExpressVPN客服提出退款申请，并提供你的电子邮箱。
 * 第五步：ExpressVPN客服确认信息后就会处理你的退款请求。
 
-注意：一般情况下，ExpressVPN的退款会在5~7个工作日内退回到你的原支付账户。
+注意：一般情况下，ExpressVPN的退款会在5~7个工作日内退回到你的原支付账户。通过这种方式，你可以放心体验ExpressVPN的服务，如果觉得不合适，也能及时止损，不会有任何资金风险。
 
 <p align="center"><a href="https://wallvpn.com/go/expressvpn/">立即获取ExpressVPN</a></p>
 
