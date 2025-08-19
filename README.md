@@ -111,7 +111,7 @@ ExpressVPN为用户提供30天无理由退款保证。如果你在使用过程�
 
 **第一步：通过官网购买套餐**
 
-<a href="https://wallvpn.com/go/expressvpn/">访问ExpressVPN官网</a>，选择合适的套餐（支持月付、年付和两年付方案）。购买ExpressVPN时可以使用银联卡、信用卡、PayPal、比特币等方式支付，整个支付过程安全且快捷。当完成付款后，你会收到一封包含激活信息的确认邮件。
+访问ExpressVPN官网，选择合适的套餐（支持月付、年付和两年付方案）。购买ExpressVPN时可以使用银联卡、信用卡、PayPal、比特币等方式支付，整个支付过程安全且快捷。当完成付款后，你会收到一封包含激活信息的确认邮件。
 
 **第二步：下载并安装客户端**
 
@@ -130,6 +130,8 @@ ExpressVPN为用户提供30天无理由退款保证。如果你在使用过程�
 在使用过程中，你还可以根据需要开启终止开关、切换加密协议、使用隧道分流功能或更换DNS设置。这些功能都可以在ExpressVPN客户端的设置菜单中找到，操作简单，不需要复杂的技术知识。
 
 总体来说，ExpressVPN的兼容性非常全面，下载安装和使用的过程也极为简便。无论你是<a href="https://github.com/chinavpns/pcvpn.github.io">电脑VPN</a>用户、<a href="https://github.com/chinavpns/androidvpn.github.io">手机VPN</a>用户还是路由器用户，都可以在几分钟内完成安装和配置。对大多数中国用户而言，ExpressVPN的操作体验友好且稳定，完全能够满足日常使用需求。
+
+<p align="center"><a href="https://wallvpn.com/go/expressvpn/">立即获取ExpressVPN</a></p>
 
 ## 如何下载ExpressVPN iOS APP？
 
