@@ -14,6 +14,20 @@ ExpressVPN创立于2009年，总部位于英属维尔京群岛，以强大的隐
 
 接下来，本文将会详细解答关于ExpressVPN国内能用吗、ExpressVPN安全吗、ExpressVPN怎么样、如何下载安装ExpressVPN等问题。同时，我们也整理了在中国使用ExpressVPN时常见的问题和解决方法，帮助大家更全面地了解这款VPN工具的实际表现。
 
+<blockquote>
+<h2 id="本文内容导航">本文内容导航</h2>
+<h3 id="1-expressvpn国内能用吗">1. <a href="#expressvpn国内能用吗">ExpressVPN国内能用吗？</a></h3>
+<h3 id="2-expressvpn安全吗">2. <a href="#expressvpn安全吗">ExpressVPN安全吗？</a></h3>
+<h3 id="3-expressvpn怎么样">3. <a href="#expressvpn怎么样">ExpressVPN怎么样？</a></h3>
+<h3 id="4-expressvpn价格多少">4. <a href="#expressvpn价格多少">ExpressVPN价格多少？</a></h3>
+<h3 id="5-expressvpn怎么取消自动续费">5. <a href="#expressvpn怎么取消自动续费">ExpressVPN怎么取消自动续费？</a></h3>
+<h3 id="6-expressvpn如何申请退款">6. <a href="#expressvpn如何申请退款">ExpressVPN如何申请退款？</a></h3>
+<h3 id="7-expressvpn下载安装教程">7. <a href="#expressvpn下载安装教程">ExpressVPN下载安装教程</a></h3>
+<h3 id="8-如何下载expressvpn-ios-app">8. <a href="#如何下载expressvpn-ios-app">如何下载ExpressVPN iOS APP？</a></h3>
+<h3 id="9-expressvpn中国常见问题">9. <a href="#expressvpn中国常见问题">ExpressVPN中国常见问题</a></h3>
+<h3 id="10-expressvpn中国评测总结">10. <a href="#expressvpn中国评测总结">ExpressVPN中国评测总结</a></h3>
+</blockquote>
+
 ## ExpressVPN国内能用吗？ 
 
 先说结论：ExpressVPN可以在中国大陆使用，并且整体表现非常稳定。众所周知，中国的GFW一直在升级，任何VPN软件都不可能做到全年100%可用。如果有人宣称某款VPN能在中国全年100%稳定运行，那基本可以判断是夸大甚至虚假宣传。对比市面上几百款VPN软件，绝大多数在中国都无法长期正常使用，而ExpressVPN是极少数能够持续突破封锁并在中国保持稳定连接的服务之一。根据我们过去几年的实测数据，ExpressVPN在中国的全年可用率在多数时间里都能达到98%以上（如果不挑服务器的话，全年可用率接近100%），这意味着即使在复杂的网络环境下，它也能帮助中国用户顺利访问Google、YouTube、ChatGPT、Netflix、Disney+等海外网站或应用。
