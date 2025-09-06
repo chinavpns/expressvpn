@@ -78,7 +78,7 @@ ExpressVPN创立于2009年，总部位于英属维尔京群岛，以强大的隐
 
 ## ExpressVPN价格多少？ 
 
-![ExpressVPN中国评测：ExpressVPN价格](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/ExpressVPN-2.jpg)
+![ExpressVPN中国评测：ExpressVPN价格](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC-1.png)
 
 ExpressVPN的价格虽然比市面上一些<a href="https://github.com/chinavpns/cheapvpn.github.io">便宜的VPN</a>要高一些，但在翻墙稳定性、安全性和连接速度方面表现出色，整体性价比依然很高。更重要的是，ExpressVPN提供30天无理由退款保证，让用户在试用过程中没有任何后顾之忧。
 
