@@ -1,6 +1,6 @@
 # <p align="center">ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN国内能用吗？ExpressVPN如何申请退款？</p>
 
-<p align="center">最近更新于：2025年8月18日</p>
+<p align="center">最近更新于：2025年9月6日</p>
 
 ![ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN国内能用吗？ExpressVPN如何申请退款？](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/Expressvpn.png)
 
@@ -68,7 +68,7 @@ ExpressVPN创立于2009年，总部位于英属维尔京群岛，以强大的隐
 
 **流媒体解锁能力**：很多用户使用VPN的主要目的是解锁流媒体平台，而ExpressVPN在这方面的表现一直很出色，它可以顺利解锁Netflix、Disney+、HBO、BBC iPlayer、Hulu等主流流媒体服务。更重要的是，即使这些平台不断更新封锁手段，ExpressVPN也能快速更新节点，保证用户依然能够流畅观看海外影视内容。对中国用户来说，这一点尤其重要，因为流媒体往往是衡量VPN体验的核心标准。
 
-**兼容性与易用性**：ExpressVPN支持Windows、Mac、iOS、Android、Linux、路由器以及智能电视等多种平台，还可以同时支持8台设备连接。无论你是电脑、手机还是家庭路由器用户，都能找到对应的客户端。而且ExpressVPN的应用界面简洁，安装和操作步骤直观，即使是新手用户也能快速上手。
+**兼容性与易用性**：ExpressVPN支持Windows、Mac、iOS、Android、Linux、路由器以及智能电视等多种平台，还可以同时支持10台设备连接。无论你是电脑、手机还是家庭路由器用户，都能找到对应的客户端。而且ExpressVPN的应用界面简洁，安装和操作步骤直观，即使是新手用户也能快速上手。
 
 **隧道分流功能**：ExpressVPN还提供隧道分流（Split Tunneling）功能，用户可以灵活选择哪些应用或网站走VPN通道，哪些保持本地网络直连。例如，在开启VPN的同时访问中国本地银行网站或国内应用，就可以避免速度下降或功能受限的问题。因此，隧道分流功能对于经常需要同时访问境内外资源的中国用户非常实用。
 
@@ -82,11 +82,11 @@ ExpressVPN创立于2009年，总部位于英属维尔京群岛，以强大的隐
 
 ExpressVPN的价格虽然比市面上一些<a href="https://github.com/chinavpns/cheapvpn.github.io">便宜的VPN</a>要高一些，但在翻墙稳定性、安全性和连接速度方面表现出色，整体性价比依然很高。更重要的是，ExpressVPN提供30天无理由退款保证，让用户在试用过程中没有任何后顾之忧。
 
-ExpressVPN主要提供三种付费套餐，分别是1个月套餐、1年套餐和2年套餐。其中，现在购买12个月套餐还额外赠送3个月，购买2年套餐还额外赠送4个月：
+ExpressVPN主要提供三种付费套餐，分别是1个月套餐、1年套餐和2年套餐。其中，现在购买1年套餐还额外赠送3个月，购买2年套餐还额外赠送4个月：
 
 * 1个月套餐：12.95美金/月
-* 1年套餐：6.67美金/月，1年共99.95美金
-* 2年套餐：4.99美金/月，2年共139.72美金
+* 1年套餐：4.99美金/月
+* 2年套餐：3.49美金/月
 
 ExpressVPN为所有用户提供30天无理由退款保证，无论你选择哪种套餐，如果在使用过程中觉得不合适，都可以在30天内随时申请退款，ExpressVPN承诺全额退还费用，所以大家可以放心地购买！与此同时，ExpressVPN还提供7x24全天候在线客服支持，确保用户在购买和使用过程中遇到问题时能够得到及时解决。
 
@@ -121,7 +121,7 @@ ExpressVPN为用户提供30天无理由退款保证。如果你在使用过程�
 
 ![ExpressVPN中国评测，ExpressVPN下载安装教程：ExpressVPN可以兼容所有主流的设备和平台](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/ExpressVPN-3.jpg)
 
-在选择VPN时，兼容性和易用性是很多用户非常看重的因素。ExpressVPN在这一点上表现非常出色，它几乎覆盖了所有常见平台。无论是Windows、Mac、iOS、Android、Linux，还是路由器、智能电视和游戏机，ExpressVPN都提供了专用客户端或相应的设置方案。而且，ExpressVPN的一个账号最多支持8台设备同时在线，能够满足大多数家庭和个人的使用需求。对于经常需要在电脑和手机之间切换的用户来说，ExpressVPN的多平台兼容性显得尤为重要。接下来我们来看看如何购买、下载、注册并使用ExpressVPN。
+在选择VPN时，兼容性和易用性是很多用户非常看重的因素。ExpressVPN在这一点上表现非常出色，它几乎覆盖了所有常见平台。无论是Windows、Mac、iOS、Android、Linux，还是路由器、智能电视和游戏机，ExpressVPN都提供了专用客户端或相应的设置方案。而且，ExpressVPN的一个账号最多支持10台设备同时在线，能够满足大多数家庭和个人的使用需求。对于经常需要在电脑和手机之间切换的用户来说，ExpressVPN的多平台兼容性显得尤为重要。接下来我们来看看如何购买、下载、注册并使用ExpressVPN。
 
 **第一步：通过官网购买套餐**
 
@@ -211,7 +211,7 @@ ExpressVPN之所以能够在中国长期保持可用，主要依赖以下几个�
 
 在安全性方面，ExpressVPN具备多层次的加密保护和严格的无日志政策，并通过IP/DNS泄漏防护、终止开关等功能，确保用户的隐私与数据不被泄露。再加上Lightway协议带来的快速稳定连接，使它在中国的实际使用中表现更加突出。
 
-在功能体验上，ExpressVPN支持Windows、Mac、iOS、Android、Linux、路由器及智能电视等几乎所有常见平台，一个账号可同时支持8台设备连接，兼容性和易用性都非常出色。同时，它还具备隧道分流、智能服务器切换等功能，为用户提供了更多灵活性和稳定性。
+在功能体验上，ExpressVPN支持Windows、Mac、iOS、Android、Linux、路由器及智能电视等几乎所有常见平台，一个账号可同时支持10台设备连接，兼容性和易用性都非常出色。同时，它还具备隧道分流、智能服务器切换等功能，为用户提供了更多灵活性和稳定性。
 
 当然，ExpressVPN也并非没有缺点。它的价格相对偏高，而且在敏感时期可能会出现部分节点暂时不可用的情况。但从实际体验和整体表现来看，这些问题并不会影响ExpressVPN在中国用户心中的高口碑。如果你看重长期稳定的翻墙能力和隐私安全，那么ExpressVPN依然是最可靠的选择之一。
 
