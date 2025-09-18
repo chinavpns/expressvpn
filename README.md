@@ -1,6 +1,6 @@
 # <p align="center">ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN国内能用吗？ExpressVPN如何申请退款？</p>
 
-<p align="center">最近更新于：2025年9月6日</p>
+<p align="center">最近更新于：2025年9月18日</p>
 
 ![ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN国内能用吗？ExpressVPN如何申请退款？](https://raw.githubusercontent.com/chinavpns/expressvpn/refs/heads/main/image/Expressvpn.png)
 
